@@ -15,3 +15,4 @@
 # git merge feature/new-feature // this will merge 'feature/new-feature' into 'develop' branch
 
 # git flow init -d // init flow with default settings
+# git flow feature finish new-feature // Merged feature/new-feature into develop, delete 'feature/new-feature' branch and selected develop branch
