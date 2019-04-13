@@ -13,3 +13,5 @@
 
 # git checkout develop // select develop branch for merging new-feature
 # git merge feature/new-feature // this will merge 'feature/new-feature' into 'develop' branch
+
+# git flow init -d // init flow with default settings
