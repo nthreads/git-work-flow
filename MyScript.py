@@ -10,3 +10,6 @@
 
 # git checkout -b feature/new-feature // create and select new branch 'feature/new-feature'
 # git commit -am "Now we are commiting everything on 'feature/new-feature' branch"
+
+# git checkout develop // select develop branch for merging new-feature
+# git merge feature/new-feature // this will merge 'feature/new-feature' into 'develop' branch
