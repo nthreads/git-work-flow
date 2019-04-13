@@ -7,3 +7,6 @@
 # git branch develop // create 'develop' branch
 # git checkout develop // select develop branch
 # git commit -am "Add all changes to stagging and write message altogather"
+
+# git checkout -b feature/new-feature // create and select new branch 'feature/new-feature'
+# git commit -am "Now we are commiting everything on 'feature/new-feature' branch"
